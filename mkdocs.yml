@@ -1,0 +1,63 @@
+site_name: 'SGN.LAB'
+repo_url: 'https://github.com/FabLabSiegen/fabdocs'
+repo_name: 'fablabsiegen:fabdocs'
+site_favicon: 'images/favicon-32x32.png'
+
+pages:
+    - About:
+      - Community: 'about/community.md'
+      - Space: 'about/space.md'
+      - Team: 'about/space.md'
+      - Organization: 'about/org.md'
+    - The Lab: 
+      - Community Lab: 'lab/community-lab.md'    
+      - Fab Lab: 'lab/fablab.md'
+      - Holospace: 'lab/fablab.md'
+      - Mobile Lab: 'lab/mobile.md'     
+    - Projects: 'projects.md'
+    - Learn & Share: 
+      - Community & Safety: 'learn-share/community-safety.md'    
+      - Fab Basics: 'learn-share/fab-basics.md'
+#      - 'Seminar: Reading Class': 'learn-share/rc.md'
+#      - 'Seminar: Open Lab': 'learn-share/openlab-seminar.md'
+#      - 'Seminar: LabLab': 'learn-share/lablab.md'
+#      - 'Seminar: IoT': 'learn-share/iot.md'
+#      - 'Seminar: 3D printing': 'learn-share/3dp.md'
+#      - 'Other learning resources': 'learn-share/other.md'
+#      - 'Events': 'events/events.md'
+#      - 'Conferences': 'events/conferences.md'      
+    - Work with us:
+      - 'Open Lab Days': 'workwithus/openlabs.md'
+      - 'Research': 'workwithus/research.md'
+      - 'Consulting': 'workwithus/consulting.md'
+      - 'Events': 'workwithus/events.md'
+      - 'Qualification': 'workwithus/learn.md'
+    - Imprint: 'imprint.md'
+
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc(permalink=true)
+  - footnotes
+
+theme_dir: 'theme/material'
+#theme: 'material'
+
+extra_css:
+    - css/footer.css
+    
+    
+extra:
+  logo: 'images/logo.png'
+  palette:
+    primary: 'grey'
+    accent: 'amber'
+  font:
+    text: 'Open Sans'
+    code: 'Inconsolata'
+#  social:
+#    - type: 'twitter'
+#      link: 'https://twitter.com/fablabsiegen'
+#    - type: 'facebook'
+#      link: 'http://facebook.com/fablabsiegen'
