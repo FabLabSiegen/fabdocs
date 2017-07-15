@@ -5,16 +5,28 @@ site_favicon: 'images/favicon-32x32.png'
 
 pages:
     - About:
+      - Mission: 'about/mission.md'   
       - Community: 'about/community.md'
-      - Space: 'about/space.md'
-      - Team: 'about/space.md'
+      - Spaces: 'about/space.md'
+      - Team: 'about/space.md'            
       - Organization: 'about/org.md'
+#      - Timeline: 'about/timeline.md'
     - The Lab: 
-      - Community Lab: 'lab/community-lab.md'    
+      - SGN.LAB: 'lab/sgnlab.md'    
       - Fab Lab: 'lab/fablab.md'
-      - Holospace: 'lab/fablab.md'
-      - Mobile Lab: 'lab/mobile.md'     
+ #     - HCI Lab: 'lab/hcilab.md'
+      - Holospace: 'lab/holospace.md'
+      - Mobile Lab: 'lab/mobile.md' 
+ #     - 3D Café: 'lab/3dcafe.md'                 
     - Projects: 'projects.md'
+ #     - Workshops, Talks & Mobile Makerspaces
+ #     - FAB101
+ #     - ZEIT.RAUM Siegen
+ #     - Siegen Unter Tage
+ #     - Open Labs & Education (Open Lab, Student Lab, Mobile Labs, HCI Lab, 3D Café, Zukunftspiloten, Holospace, ...) 
+ #     - YALLAH
+ #     - Lab Projects 
+ #     - (Student) Research      
     - Learn & Share: 
       - Community & Safety: 'learn-share/community-safety.md'    
       - Fab Basics: 'learn-share/fab-basics.md'
@@ -23,6 +35,7 @@ pages:
 #      - 'Seminar: LabLab': 'learn-share/lablab.md'
 #      - 'Seminar: IoT': 'learn-share/iot.md'
 #      - 'Seminar: 3D printing': 'learn-share/3dp.md'
+#      - 'Seminar: Produktentwicklung III': 'learn-share/pe3.md'
 #      - 'Other learning resources': 'learn-share/other.md'
 #      - 'Events': 'events/events.md'
 #      - 'Conferences': 'events/conferences.md'      
@@ -31,7 +44,7 @@ pages:
       - 'Research': 'workwithus/research.md'
       - 'Consulting': 'workwithus/consulting.md'
       - 'Events': 'workwithus/events.md'
-      - 'Qualification': 'workwithus/learn.md'
+      - 'Qualification': 'workwithus/qualification.md'
     - Imprint: 'imprint.md'
 
 
