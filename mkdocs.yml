@@ -5,7 +5,7 @@ site_favicon: 'images/favicon-32x32.png'
 
 pages:
     - About:
-      - Mission: 'about/index.md'   
+      - Mission: 'index.md'   
       - Community: 'about/community.md'
       - Spaces: 'about/space.md'
       - Team: 'about/space.md'            
