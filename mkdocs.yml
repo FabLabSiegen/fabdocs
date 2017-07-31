@@ -1,6 +1,7 @@
 site_name: 'SGN.LAB'
 repo_url: 'https://github.com/FabLabSiegen/fabdocs'
 repo_name: 'fablabsiegen:fabdocs'
+edit_uri: edit/master/docs/
 site_favicon: 'images/favicon-32x32.png'
 
 pages:
@@ -28,7 +29,8 @@ pages:
  #     - Lab Projects 
  #     - (Student) Research      
     - Learn & Share: 
-      - Community & Safety: 'learn-share/community-safety.md'    
+      - Community & Safety: 'learn-share/community-safety.md' 
+      - 'How to: Documentation': 'learn-share/how-to-docs.md'   
       - Fab Basics: 'learn-share/fab-basics.md'
 #      - 'Seminar: Reading Class': 'learn-share/rc.md'
 #      - 'Seminar: Open Lab': 'learn-share/openlab-seminar.md'
