@@ -29,6 +29,3 @@ The full [proposal for the Workshop at C&T in PDF form](/images/2017_ws3dp_ct_pr
 ![3D printing workshop](/images/3dp-examples.jpg)
 
 *All photos:* Fab Lab Siegen: public workshop (upper), a child's personalized 3D print / working with digital fabrication in Palestine / an umbilical clamp intended for fabrication in humanitarian contexts (lower). [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
-
-
-test
