@@ -1,4 +1,3 @@
-test
 # 3D printing and digital fabrication for education and the common good
 
 > *Workshop at the International Conference on Communities and Technologies (C&T 2017)*
