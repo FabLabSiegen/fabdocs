@@ -9,6 +9,9 @@ Desktop.ini
 $RECYCLE.BIN/
 site/
 hook/
+.ssh/
+.nano/
+.bash_history/
 
 # Windows Installer files
 *.cab
@@ -49,3 +52,5 @@ Temporary Items
 .apdisk
 deploy-key
 deploy-key.pub
+
+build.sh
