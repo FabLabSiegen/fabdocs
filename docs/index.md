@@ -22,9 +22,6 @@ Date has been updated. Old date: June 9, 2017.
 
 The full [proposal for the Workshop at C&T in PDF form](/images/2017_ws3dp_ct_proposal.pdf) contains most of the information reflected on this website as well as additional references.
 
----
-
-THIS IS THE CHANGE!
 
 
 ----
