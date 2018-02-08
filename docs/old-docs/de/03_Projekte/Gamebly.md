@@ -22,6 +22,11 @@ Es müssen Treiber installiert werden (CP2102)
 ### Anschluss Apa102C-LED-Streifen
 ![Schaltplan](http://www.elec-tron.org/wp-content/uploads/2015/12/nodetoapaq102.png)
 
+Daten: Grün
+Takt: Gelb
+5V: Rot
+Erde: Schwarz
+
 ## Verwendete Tools
 * [Plattformio](http://platformio.org) als Entwicklungsumgebung
 * [Git-Hub](http://github.com) zur Versionierung des Codes
@@ -40,3 +45,9 @@ https://github.com/ManiacalLabs/AllPixel
 #### Kontra
 
 - kein Mapping
+
+### Open Pixel control
+
+Ansteuerung der LEDs über das Netzwerk
+
+http://openpixelcontrol.org
