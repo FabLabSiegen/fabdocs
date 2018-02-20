@@ -20,6 +20,7 @@ pages:
       - Mobile Lab: 'lab/mobile.md' 
  #     - 3D Café: 'lab/3dcafe.md'                 
     - Projects: 'projects.md'
+      - Aya: 'projects/aya.md'  
  #     - Workshops, Talks & Mobile Makerspaces
  #     - FAB101
  #     - ZEIT.RAUM Siegen
