@@ -19,8 +19,9 @@ pages:
       - Holospace: 'lab/holospace.md'
       - Mobile Lab: 'lab/mobile.md' 
  #     - 3D Café: 'lab/3dcafe.md'                 
-    - Projects: 'projects.md'
-      - Aya: 'projects/Aya.md'  
+    - Projects:
+      - Allgemeines: 'projects.md'
+      - Aya: 'projects/Aya.md'
  #     - Workshops, Talks & Mobile Makerspaces
  #     - FAB101
  #     - ZEIT.RAUM Siegen
