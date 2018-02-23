@@ -22,12 +22,14 @@ Kontakt: Zack
 [Es müssen Treiber installiert werden (CP2102)](https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx)
 
 ### Anschluss Apa102C-LED-Streifen
-![Schaltplan](http://www.elec-tron.org/wp-content/uploads/2015/12/nodetoapaq102.png)
 
-Daten: Grün
-Takt: Gelb
-5V: Rot
-Erde: Schwarz
+![Schaltplan](Gamebly/schaltplan.png "Schaltplan")
+_Quelle: <http://www.elec-tron.org>_
+
+* Daten: Grün
+* Takt: Gelb
+* 5V: Rot
+* Erde: Schwarz
 
 ## Verwendete Tools
 * [Plattformio](http://platformio.org) als Entwicklungsumgebung
