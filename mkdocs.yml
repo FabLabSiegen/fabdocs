@@ -2,7 +2,7 @@ site_name: 'SGN.LAB'
 repo_url: 'https://github.com/FabLabSiegen/fabdocs'
 repo_name: 'fablabsiegen:fabdocs'
 edit_uri: edit/master/docs/
-site_favicon: 'images/favicon-32x32.png'
+site_author: 'Fab Lab Siegen'
 
 pages:
     - About:
@@ -72,12 +72,12 @@ markdown_extensions:
   - toc(permalink=true)
   - footnotes
 
-theme_dir: 'theme/material'
-#theme: 'material'
+theme:
+  name: material
+  custom_dir: 'theme/material'
 
 extra_css:
     - css/footer.css
-
 
 extra:
   logo: 'images/logo.png'
