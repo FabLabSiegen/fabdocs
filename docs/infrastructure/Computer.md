@@ -1,0 +1,3 @@
+- Workshop-Set (10 Notebooks in Rollkoffer)
+- iMac 27" Retina als Lab-Rechner
+- Mehrere Maschinen-Steuercomputer im Aufbau
