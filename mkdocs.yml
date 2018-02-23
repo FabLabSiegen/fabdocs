@@ -20,7 +20,7 @@ pages:
       - Mobile Lab: 'lab/mobile.md' 
  #     - 3D Café: 'lab/3dcafe.md'                 
     - Projects:
-      - Allgemeines: 'projects.md'
+      - Overview: 'projects.md'
       - Aya: 'projects/Aya.md'
       - Lab-Status: 'projects/Lab-Status.md'
  #     - Workshops, Talks & Mobile Makerspaces
@@ -31,7 +31,8 @@ pages:
  #     - YALLAH
  #     - Lab Projects 
  #     - (Student) Research
-    - Infrastructure: 'infrastructure/index.md'
+    - Infrastructure: 
+      - Overview: 'infrastructure/index.md'
       - Raum: 'infrastructure/Raum.md'      
     - Learn & Share: 
       - Community & Safety: 'learn-share/community-safety.md' 
