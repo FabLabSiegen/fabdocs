@@ -36,12 +36,12 @@ pages:
       - Overview: 'infrastructure/index.md'
       - Raum: 'infrastructure/Raum.md'
       - Computer: 'infrastructure/Computer.md'
-      - Elektro-Werkzeug: 'infrastructure/Elektro-Werkzeug.md'
+      - Elektro-Werkzeug: 'infrastructure/Elektrowerkzeug.md'
       - Elektronik-Bereich: 'infrastructure/Elektronik-Bereich.md'
       - Laser-Cutter: 'infrastructure/Laser-Cutter.md'
-      - CNC-Fräse X-Carve: 'infrastructure/CNC-Fräse_X-Carve.md'
-      - CNC-Fräse Portalfräse Heavy: 'infrastructure/CNC-Portalfräse_Heavy.md'
-      - CNC-Fräse Stämpfli: 'infrastructure/Stämpfli.md'
+      - CNC-Fräse X-Carve: 'infrastructure/CNC-Fraese_X-Carve.md'
+      - CNC-Fräse Portalfräse Heavy: 'infrastructure/CNC-Portalfraese_Heavy.md'
+      - CNC-Fräse Stämpfli: 'infrastructure/Staempfli.md'
       - Lager: 'infrastructure/Lager.md'
 
     - Learn & Share:
