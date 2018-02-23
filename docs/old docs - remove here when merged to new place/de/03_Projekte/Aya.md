@@ -1,3 +1,6 @@
+
+
+
 ## Delta Robot 3D-Drucker "AYA"
 
 AYA ist ein Delta Robot 3D-Drucker aus der RepRap Familie, genau genommen handelt es sich um das Modell Kossel Mini.
