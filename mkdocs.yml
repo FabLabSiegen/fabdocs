@@ -21,8 +21,10 @@ pages:
  #     - 3D Café: 'lab/3dcafe.md'
     - Projects:
       - Overview: 'projects.md'
+      - Hush-Box: 'projects/Hush-Box.md'
       - Aya: 'projects/Aya.md'
       - Lab-Status: 'projects/Lab-Status.md'
+      - Gamebly: 'projects/Gamebly.md'
 
  #     - Workshops, Talks & Mobile Makerspaces
  #     - FAB101

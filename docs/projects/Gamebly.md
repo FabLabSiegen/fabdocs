@@ -1,23 +1,25 @@
+# Gamebly
 ## Projektstatus
 
-Befindet sich noch in der Entwicklung
+__Aktuell keine Entwicklung.__
 
+## Projektidee
 Ein Tisch mit einer LED-Matrix in der Mitte, auf dem man spielen kann.
 
 ## Projektteilnehmer
-Jasmin und David
+Jasmin und Zack
 
+Kontakt: Zack
 
 ## Verwendete Hardware
 * NodeMCU-Board
-* Apa102C-LED-Streifen 
+* Apa102C-LED-Streifen
     * 3 x 5 Meter
     * 30 LEDs pro Meter
 
 
 ## Installation zur Benutzung des NodeMCU-Boards
-Es müssen Treiber installiert werden (CP2102)
-[Link](https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx)
+[Es müssen Treiber installiert werden (CP2102)](https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx)
 
 ### Anschluss Apa102C-LED-Streifen
 ![Schaltplan](http://www.elec-tron.org/wp-content/uploads/2015/12/nodetoapaq102.png)
@@ -32,13 +34,13 @@ Erde: Schwarz
 * [Git-Hub](http://github.com) zur Versionierung des Codes
 
 ## Code
-[Git-Repo](https://github.com/d-amend/Gamebly)
+[https://github.com/d-amend/Gamebly](https://github.com/d-amend/Gamebly)
 
 ## Related Work
 
 ### All Pixel
 
-https://github.com/ManiacalLabs/AllPixel
+[https://github.com/ManiacalLabs/AllPixel](https://github.com/ManiacalLabs/AllPixel)
 
 #### Pro
 
@@ -50,4 +52,4 @@ https://github.com/ManiacalLabs/AllPixel
 
 Ansteuerung der LEDs über das Netzwerk
 
-http://openpixelcontrol.org
+[http://openpixelcontrol.org](http://openpixelcontrol.org)

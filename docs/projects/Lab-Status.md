@@ -1,5 +1,5 @@
 # Lab-Status
 
-## Projektteilnehmer
+## Kontakt
 Fabian
 
