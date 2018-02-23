@@ -22,6 +22,7 @@ pages:
     - Projects:
       - Allgemeines: 'projects.md'
       - Aya: 'projects/Aya.md'
+      - Lab-Status: 'projects/Lab-Status.md'
  #     - Workshops, Talks & Mobile Makerspaces
  #     - FAB101
  #     - ZEIT.RAUM Siegen
@@ -29,7 +30,9 @@ pages:
  #     - Open Labs & Education (Open Lab, Student Lab, Mobile Labs, HCI Lab, 3D Café, Zukunftspiloten, Holospace, ...) 
  #     - YALLAH
  #     - Lab Projects 
- #     - (Student) Research      
+ #     - (Student) Research
+    - Infrastructure: 'infrastructure/index.md'
+      - Raum: 'infrastructure/Raum.md'      
     - Learn & Share: 
       - Community & Safety: 'learn-share/community-safety.md' 
       - 'How to: Documentation': 'learn-share/how-to-docs.md'   
