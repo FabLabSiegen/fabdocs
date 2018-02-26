@@ -74,7 +74,9 @@ markdown_extensions:
   - toc(permalink=true)
   - footnotes
 
-theme_dir: 'theme/material'
+theme:
+  name: material
+  custom_dir: 'theme/material'
 
 extra_css:
     - css/footer.css
