@@ -7,8 +7,8 @@ Simon
 
 ## Projektfortschritt 
 
-![](hush-box/hushbox1.jpg)
+![](hush-box/hushbox_1.jpg)
 
-![](hush-box/hushbox2.jpg)
+![](hush-box/hushbox_2.jpg)
 
-![](hush-box/hushbox3.jpg)
+![](hush-box/hushbox_3.jpg)
