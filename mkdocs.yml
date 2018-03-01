@@ -5,20 +5,19 @@ edit_uri: edit/master/docs/
 site_author: 'Fab Lab Siegen'
 
 pages:
-    - About:
-      - Mission: 'index.md'
-      - Community: 'about/community.md'
-      - Spaces: 'about/space.md'
-      - Team: 'about/space.md'
-      - Organization: 'about/org.md'
+    #- About:
+      # - Mission: 'index.md'
+      # - Community: 'about/community.md'
+      # - Spaces: 'about/space.md'
+      # - Team: 'about/space.md'
+      # - Organization: 'about/org.md'
 #      - Timeline: 'about/timeline.md'
     - The Lab:
-      - SGN.LAB: 'lab/sgnlab.md'
+      #- SGN.LAB: 'lab/sgnlab.md'
       - Fab Lab: 'lab/fablab.md'
- #     - HCI Lab: 'lab/hcilab.md'
-      - Holospace: 'lab/holospace.md'
+ 
+      #- Holospace: 'lab/holospace.md'
       - Mobile Lab: 'lab/mobile.md'
- #     - 3D Café: 'lab/3dcafe.md'
 
     - Briefings & Rules:
       - Laborordnung: 'briefings-rules/Laborordnung.md'
