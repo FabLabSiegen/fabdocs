@@ -45,6 +45,15 @@ pages:
       - CNC-Fräse Portalfräse Heavy: 'infrastructure/CNC-Portalfraese_Heavy.md'
       - CNC-Fräse Stämpfli: 'infrastructure/Staempfli.md'
       - Lager: 'infrastructure/Lager.md'
+      - 3D-Druck: 
+        - 'infrastructure/3D-Druck/Ultimaker.md'
+        - 'infrastructure/3D-Druck/PrintrBot.md'
+        - 'infrastructure/3D-Druck/Form1.md'
+        - 'infrastructure/3D-Druck/LulzBotTAZ5.md'
+        - 'infrastructure/3D-Druck/MarkOne.md'
+        - 'infrastructure/3D-Druck/MarkTwo.md'
+        - 'infrastructure/3D-Druck/Replicator2X.md'
+        - 'infrastructure/3D-Druck/ReplicatorDual.md'
 
     - Learn & Share:
       - Community & Safety: 'learn-share/community-safety.md'
