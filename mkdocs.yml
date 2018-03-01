@@ -19,6 +19,16 @@ pages:
       - Holospace: 'lab/holospace.md'
       - Mobile Lab: 'lab/mobile.md'
  #     - 3D Café: 'lab/3dcafe.md'
+
+    - Briefings & Rules:
+      - Laborordnung: 'briefings-rules/Laborordnung.md'
+      - Grundregeln: 'briefings-rules/Grundregeln/index.md'
+      - Laser: 'briefings-rules/Einweisung_Laser/index.md'
+      - 3D-Drucker: 'briefings-rules/Einweisung_3D-Drucker/index.md'
+      - E-Werkstatt: 'briefings-rules/Einweisung_E-Werkstatt/index.md'
+      - Elektrowerkzeug: 'briefings-rules/Einweisung_Elektro-Werkzeuge/index.md'
+      - Fräsen: 'briefings-rules/Einweisung_Fraese/index.md'
+
     - Projects:
       - Overview: 'projects.md'
       - Hush-Box: 'projects/Hush-Box.md'
@@ -36,16 +46,12 @@ pages:
  #     - (Student) Research
     - Infrastructure:
       - Overview: 'infrastructure/index.md'
-      - Raum: 'infrastructure/Raum.md'
-      - Computer: 'infrastructure/Computer.md'
-      - Elektro-Werkzeug: 'infrastructure/Elektrowerkzeug.md'
-      - Elektronik-Bereich: 'infrastructure/Elektronik-Bereich.md'
-      - Laser-Cutter: 'infrastructure/Laser-Cutter.md'
-      - CNC-Fräse X-Carve: 'infrastructure/CNC-Fraese_X-Carve.md'
-      - CNC-Fräse Portalfräse Heavy: 'infrastructure/CNC-Portalfraese_Heavy.md'
-      - CNC-Fräse Stämpfli: 'infrastructure/Staempfli.md'
-      - Lager: 'infrastructure/Lager.md'
-      - 3D-Druck: 
+      - Room: 'infrastructure/Raum.md'
+      - CNC Mills:
+        - X-Carve: 'infrastructure/CNC-Fraese_X-Carve.md'
+        - Portal mill Heavy: 'infrastructure/CNC-Portalfraese_Heavy.md'
+        - Stämpfli: 'infrastructure/Staempfli.md'
+      - 3D Printing:
         - 'infrastructure/3D-Druck/Ultimaker.md'
         - 'infrastructure/3D-Druck/PrintrBot.md'
         - 'infrastructure/3D-Druck/Form1.md'
@@ -54,7 +60,13 @@ pages:
         - 'infrastructure/3D-Druck/MarkTwo.md'
         - 'infrastructure/3D-Druck/Replicator2X.md'
         - 'infrastructure/3D-Druck/ReplicatorDual.md'
-
+        - 'infrastructure/3D-Druck/Aya.md'
+      - Electronic Tools: 'infrastructure/Elektrowerkzeug.md'
+      - Electronics Area: 'infrastructure/Elektronik-Bereich.md'
+      - Laser Cutter: 'infrastructure/Laser-Cutter.md'
+      - Warehouse: 'infrastructure/Lager.md'
+      - Computer: 'infrastructure/Computer.md'
+      
     - Learn & Share:
       - Community & Safety: 'learn-share/community-safety.md'
       - 'How to: Documentation': 'learn-share/how-to-docs.md'

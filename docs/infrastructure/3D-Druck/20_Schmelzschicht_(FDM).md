@@ -2,7 +2,7 @@
 
 ![](img_3d-drucker/fdm.jpg)
 
-**Notwendige Einweisungen:** [Allgemeine Sicherheitseinweisung](!de/Einweisungen_und_Regeln/Grundregeln/index), [3D-Drucker](!de/Einweisungen_und_Regeln/Einweisung_3D-Drucker/index)
+**Notwendige Einweisungen:** [Allgemeine Sicherheitseinweisung](../../briefings-rules/Grundregeln/), [3D-Drucker](../../briefings-rules/Einweisung_3D-Drucker)
 
 ## FDM- Drucker im Lab
 
@@ -36,7 +36,7 @@ Infos folgen
 
 - Eigenbau
 - Funktionsprinzip: [Delta Robot](https://en.wikipedia.org/wiki/Delta_robot)
-- [Dokumentation](!de/Projekte/Aya)
+- [Dokumentation](projects/Aya)
 
 
 ## Printrbot Simple Metal <a name="pbsm"></a>

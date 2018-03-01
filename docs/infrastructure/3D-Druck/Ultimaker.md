@@ -2,7 +2,7 @@ Ultimaker 2
 
 ![](img_3d-drucker/um2e.JPG)
 
-**Notwendige Einweisungen:** [Allgemeine Sicherheitseinweisung](!de/Einweisungen_und_Regeln/Grundregeln/index), [3D-Drucker](!de/E$
+**Notwendige Einweisungen:** [Allgemeine Sicherheitseinweisung](../../briefings-rules/Grundregeln/), [3D-Drucker](../../briefings-rules/Einweisung_3D-Drucker)
 
 ## Allgemeine Infos:
 
