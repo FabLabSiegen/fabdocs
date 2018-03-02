@@ -5,12 +5,12 @@ edit_uri: edit/master/docs/
 site_author: 'Fab Lab Siegen'
 
 pages:
-    #- About:
-      # - Mission: 'index.md'
+    - About:
+      - Mission: 'index.md'
       # - Community: 'about/community.md'
       # - Spaces: 'about/space.md'
-      # - Team: 'about/space.md'
-      # - Organization: 'about/org.md'
+      - Team: 'about/space.md'
+      - Organization: 'about/org.md'
 #      - Timeline: 'about/timeline.md'
     - The Lab:
       #- SGN.LAB: 'lab/sgnlab.md'
