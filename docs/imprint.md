@@ -30,10 +30,9 @@ Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für di
 __Copyright__  
 Die Urheber- und Nutzungsrechte (Copyright) für Texte, Grafiken, Bilder, Design und Quellcode liegen bei der Universität Siegen. Die Erstellung, Verwendung und Weitergabe von Kopien in elektronischer oder ausgedruckter Form bedarf der Genehmigung.
 
-__Datenschutzerklärung__
+__Datenschutzerklärung__  
 
 Es gilt die [Datenschutzerklärung](https://www.uni-siegen.de/start/kontakt/datenschutzerklaerung.html) der Universität Siegen.
 
 Ergänzende Punkte für diese Website:
-
 [Datenschutzerklärung CSCW](https://wineme.fb5.uni-siegen.de/DSGVO_CSCW.pdf)
