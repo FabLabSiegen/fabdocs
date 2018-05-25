@@ -54,3 +54,18 @@ deploy-key
 deploy-key.pub
 
 build.sh
+
+
+# self added
+.bash_history
+.bashrc
+.cache
+.config
+.ghost
+.npm
+.nvm
+.vimrc
+fablab-siegen.de-ghost
+images.zip
+node_modules
+package-lock.json
