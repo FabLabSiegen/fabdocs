@@ -85,7 +85,7 @@ pages:
       - 'Consulting': 'workwithus/consulting.md'
       - 'Events': 'workwithus/events.md'
       - 'Qualification': 'workwithus/qualification.md'
-    - Imprint: 'imprint.md'
+    - Imprint and Data protection declaration: 'imprint.md'
 
 markdown_extensions:
   - admonition

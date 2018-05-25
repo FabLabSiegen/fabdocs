@@ -1,4 +1,4 @@
-#Imprint  
+# Imprint and Data protection declaration
 
 __Universität Siegen__  
 Adolf-Reichwein-Straße 2a  
@@ -31,6 +31,7 @@ __Copyright__
 Die Urheber- und Nutzungsrechte (Copyright) für Texte, Grafiken, Bilder, Design und Quellcode liegen bei der Universität Siegen. Die Erstellung, Verwendung und Weitergabe von Kopien in elektronischer oder ausgedruckter Form bedarf der Genehmigung.
 
 __Datenschutzerklärung__
+
 Es gilt die [Datenschutzerklärung](https://www.uni-siegen.de/start/kontakt/datenschutzerklaerung.html) der Universität Siegen.
 
 Ergänzende Punkte für diese Website:
