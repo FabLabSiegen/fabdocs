@@ -17,7 +17,7 @@
   {% endif %}
   <ul class="md-nav__list" data-md-scrollfix>
     {% for nav_item in nav %}
-		{% if nav_item.title != "Imprint and Data protection declaration" %}               
+		{% if nav_item.title != "Imprint" %}               
 			{% set path = "nav-" + loop.index | string %}
 			{% set level = 1 %}
 			{% include "partials/nav-item.html" %}
