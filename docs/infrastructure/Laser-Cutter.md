@@ -7,6 +7,10 @@ Schneiden und Gravieren von Holz, Pappe, Acryl, ...
 * Hersteller: EAS
 * Bedienungsanleitung des Herstellers: [PDF](anleitung_laser.pdf)
 
+## Materialien und Parameter
+
+Hier verweisen wir mal auf das Fab Lab Müchen:
+https://wiki.fablab-muenchen.de/display/WIKI/6.+Materialien+und+Parameter
 
 ## Tutorial:
 ### 1. Einschalten und verbinden
