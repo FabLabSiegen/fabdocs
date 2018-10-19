@@ -4,7 +4,6 @@
 
 ## Bedarfe
 - Cutter, Schneideunterlagen, allgemeine Ausrüstung für händisches Basteln / Modelle erstellen (evtl. in mehrfacher Ausfertigung für Workshops / Lehre)
--
 
 ## ToDo
 
