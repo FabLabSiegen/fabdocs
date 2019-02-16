@@ -1,56 +1,31 @@
-site_name: 'SGN.LAB'
+site_name: 'Fab Lab Siegen'
 repo_url: 'https://github.com/FabLabSiegen/fabdocs'
 repo_name: 'fablabsiegen:fabdocs'
 edit_uri: edit/master/docs/
 site_author: 'Fab Lab Siegen'
 
 pages:
-    - The Lab:
-      - Mission: 'index.md'
+    - Fab Lab Siegen:
+      - Ziele und Aufgaben: 'index.md'
       - Community: 'about/community.md'
-      # - Spaces: 'about/space.md'
-      - Team: 'about/team.md'
-      #- Organization: 'about/org.md'
-#      - Timeline: 'about/timeline.md'
-    #- The Lab:
-      #- SGN.LAB: 'lab/sgnlab.md'
-      #- Fab Lab: 'lab/fablab.md'
+      - Team und Zuständigkeiten: 'about/team.md'
+      - Chronik: 'about/org.md'
+      - Zusammenarbeit: 'about/org.md'
 
-      #- Holospace: 'lab/holospace.md'
-      #- Mobile Lab: 'lab/mobile.md'
+    - 'Blog': 'index.md'
 
-    - Briefings & Rules:
-      - Laborordnung: 'briefings-rules/Laborordnung.md'
-      - Grundregeln: 'briefings-rules/Grundregeln/index.md'
-      - Laser: 'briefings-rules/Einweisung_Laser/index.md'
-      - 3D-Drucker: 'briefings-rules/Einweisung_3D-Drucker/index.md'
-      - E-Werkstatt: 'briefings-rules/Einweisung_E-Werkstatt/index.md'
-      - Elektrowerkzeug: 'briefings-rules/Einweisung_Elektro-Werkzeuge/index.md'
-      - Fräsen: 'briefings-rules/Einweisung_Fraese/index.md'
+    - 'Galerie': 'index.md'
 
-    - Projects:
-      - Overview: 'projects.md'
-      - Hush-Box: 'projects/Hush-Box.md'
-      - Aya: 'projects/Aya.md'
-      - Lab-Status: 'projects/Lab-Status.md'
-      - Gamebly: 'projects/Gamebly.md'
 
- #     - Workshops, Talks & Mobile Makerspaces
- #     - FAB101
- #     - ZEIT.RAUM Siegen
- #     - Siegen Unter Tage
- #     - Open Labs & Education (Open Lab, Student Lab, Mobile Labs, HCI Lab, 3D Café, Zukunftspiloten, Holospace, ...)
- #     - YALLAH
- #     - Lab Projects
- #     - (Student) Research
-    - Infrastructure:
-      - Overview: 'infrastructure/index.md'
-      - Room: 'infrastructure/Raum.md'
-      - CNC Mills:
+    - Infrastruktur:
+#      - Overview: 'infrastructure/index.md'
+      - Räume und Orte: 'infrastructure/Raum.md'
+      - Laser Cutter: 'infrastructure/Laser-Cutter.md'
+      - CNC-Fräsen:
         - X-Carve: 'infrastructure/CNC-Fraese_X-Carve.md'
-        - Portal mill Heavy: 'infrastructure/CNC-Portalfraese_Heavy.md'
+        - Portalfräse EAS: 'infrastructure/CNC-Portalfraese_Heavy.md'
         - Stämpfli: 'infrastructure/Staempfli.md'
-      - 3D Printing:
+      - 3D-Druck:
         - 'infrastructure/3D-Druck/Ultimaker.md'
         - 'infrastructure/3D-Druck/PrintrBot.md'
         - 'infrastructure/3D-Druck/Form1.md'
@@ -60,32 +35,81 @@ pages:
         - 'infrastructure/3D-Druck/Replicator2X.md'
         - 'infrastructure/3D-Druck/ReplicatorDual.md'
         - 'infrastructure/3D-Druck/Aya.md'
-      - Electronic Tools: 'infrastructure/Elektrowerkzeug.md'
-      - Electronics Area: 'infrastructure/Elektronik-Bereich.md'
-      - Laser Cutter: 'infrastructure/Laser-Cutter.md'
-      - Warehouse: 'infrastructure/Lager.md'
-      - Computer: 'infrastructure/Computer.md'
+      - Hand- und Elektrowerkzeuge: 'infrastructure/Elektrowerkzeug.md'
+      - Stoff und Nähen: 'infrastructure/Laser-Cutter.md'
+      - Elektrowerkstatt: 'infrastructure/Elektronik-Bereich.md'
+      - Lager und Material: 'infrastructure/Lager.md'
+      - Sonstiges: 'infrastructure/Computer.md'
 
-    - Learn & Share:
-      - Community & Safety: 'learn-share/community-safety.md'
-      - 'How to: Documentation': 'learn-share/how-to-docs.md'
-      - Fab Basics: 'learn-share/fab-basics.md'
-#      - 'Seminar: Reading Class': 'learn-share/rc.md'
-#      - 'Seminar: Open Lab': 'learn-share/openlab-seminar.md'
-#      - 'Seminar: LabLab': 'learn-share/lablab.md'
-#      - 'Seminar: IoT': 'learn-share/iot.md'
-#      - 'Seminar: 3D printing': 'learn-share/3dp.md'
-#      - 'Seminar: Produktentwicklung III': 'learn-share/pe3.md'
-#      - 'Other learning resources': 'learn-share/other.md'
-#      - 'Events': 'events/events.md'
-#      - 'Conferences': 'events/conferences.md'
-    - Work with us:
-      - 'Open Lab Days': 'workwithus/openlabs.md'
-      - 'Research': 'workwithus/research.md'
-      - 'Consulting': 'workwithus/consulting.md'
-      - 'Events': 'workwithus/events.md'
-      - 'Qualification': 'workwithus/qualification.md'
-    - Imprint: 'imprint.md'
+    - Sicherheit und Regeln:
+      - The Rules in a Nutshell: 'learn-share/community-safety.md'
+      - Sicherheitseinweisungen: 'briefings-rules/Grundregeln/index.md'
+      - Laborordnung: 'briefings-rules/Laborordnung.md'
+      # - Unterweisung Laser: 'briefings-rules/Einweisung_Laser/index.md'
+      # - Unterweisung 3D-Drucker: 'briefings-rules/Einweisung_3D-Drucker/index.md'
+      # - Unterweisung E-Werkstatt: 'briefings-rules/Einweisung_E-Werkstatt/index.md'
+      # - Unterweisung Elektrowerkzeug: 'briefings-rules/Einweisung_Elektro-Werkzeuge/index.md'
+      - Raumnutzung & Aufsicht: 'briefings-rules/Laborordnung.md'
+      # - Unterweisung Fräsen: 'briefings-rules/Einweisung_Fraese/index.md'
+
+
+    - 'Lernen im Lab':
+      - 'Offenes Labor / Open Lab': 'workwithus/openlabs.md'
+      - 'Wissen Teilen / Sharing Knowledge': 'learn-share/how-to-docs.md'
+      - Semester Courses:
+        - 'FAB101 lecture': 'learn-share/fab-basics.md'
+        - 'Seminar: Reading Class': 'learn-share/how-to-docs.md'
+        - 'Seminar: Open Lab': 'learn-share/how-to-docs.md'
+        - 'Seminar: LabLab': 'learn-share/how-to-docs.md'
+        - 'Seminar: IoT': 'learn-share/how-to-docs.md'
+        - 'Seminar: 3D printing': 'learn-share/how-to-docs.md'
+        - 'Seminar: Produktentwicklung III': 'learn-share/how-to-docs.md'
+        - 'Seminar: Labor Additive Fertigung': 'learn-share/how-to-docs.md'
+      - 'Open Topics for Students': 'workwithus/qualification.md'
+      - MINT:Lab Siegen: 'learn-share/how-to-docs.md'
+      - VDI Zukunftspiloten Siegen: 'learn-share/how-to-docs.md'
+      - 'Workshops': 'workwithus/openlabs.md'
+  #    - 'Arduino in a Nutshell': 'learn-share/how-to-docs.md'
+      - 'Other learning resources': 'learn-share/how-to-docs.md'
+
+    - Projekte:
+      - Übersicht / Overview: 'projects.md'
+      - FAB101: 'projects.md'
+      - ZEIT.RAUM: 'projects.md'
+      - YALLAH: 'projects.md'
+      - Access Control: 'projects.md'
+      - Hush-Box: 'projects/Hush-Box.md'
+      - Aya: 'projects/Aya.md'
+      - Lab-Status: 'projects/Lab-Status.md'
+      - Gamebly: 'projects/Gamebly.md'
+      - Mobile & Temporary Labs: 'projects.md'
+      - 3D-Druck mit Faserverbund-Werkstoffen: 'projects.md'
+      - Sonstige Projekte und Ideen: 'projects.md'
+
+ #     - FAB101
+ #     - ZEIT.RAUM Siegen
+ #     - Siegen Unter Tage
+ #     - Open Labs & Education (Open Lab, Student Lab, Mobile Labs, HCI Lab, 3D Café, Zukunftspiloten, Holospace, ...)
+ #     - YALLAH
+ #     - Lab Projects
+ #     - (Student) Research
+
+
+    - 'Events': 'events.md'
+#     - 'Conferences': 'events/conferences.md'
+#      - 'Open Lab Days': 'workwithus/openlabs.md'
+#     - 'Workshops & Talks':
+#     - (Mobile) Makerspaces
+
+
+
+    - 'Kontakt':
+      - 'Adresse': 'workwithus/events.md'
+      - 'Öffnungszeiten': 'workwithus/openlabs.md'
+      - 'Soziale und andere Medien': 'workwithus/events.md'
+      - 'Ansprechpersonen': 'about/team.md'
+
+
 
 markdown_extensions:
   - admonition
