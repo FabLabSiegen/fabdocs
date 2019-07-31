@@ -1,139 +1,116 @@
 site_name: 'Fab Lab Siegen'
 repo_url: 'https://github.com/FabLabSiegen/fabdocs'
-repo_name: 'fablabsiegen:fabdocs'
-edit_uri: edit/master/docs/
+repo_name: 'Quellcode'
+# edit_uri: edit/master/docs/
 site_author: 'Fab Lab Siegen'
 
-pages:
-    - Fab Lab Siegen:
-      - Ziele und Aufgaben: 'index.md'
-      - Community: 'about/community.md'
-      - Team und Zuständigkeiten: 'about/team.md'
-      - Chronik: 'about/org.md'
-      - Zusammenarbeit: 'about/org.md'
+nav:
+  - Über das Labor:
+    - Fab Lab Siegen: 'index.md'
+    - Lehre & Bildung: 'lehre.md'
+    - Forschung: 'forschung.md'
+    - Regionale Rolle: 'region.md'
+    - Globales Netzwerk: 'welt.md'    
+  
+  - Blog:
+    - 2019: 
+      - blog/2019-07-25-testpost.md
+    - 2015:
+      - blog/2015-02-22-raum.md  
+    - 2014:
+      - blog/2014-10-12-makerfaire-dortmund.md
+      - blog/2014-07-20-makerfaire-hannover.md
+      - blog/2014-06-29-maker-in-palaestina.md
+      - blog/2014-06-28-makerprojekte.md
+      - blog/2014-06-09-raum-moeglichkeiten.md
+      - blog/2014-06-08-ausstattung.md
+      - blog/2014-06-07-about.md
+      - blog/2014-06-05-rp14.md      
+      - blog/2014-06-04-hasi.md
+      - blog/2014-06-01-mitmachen.md
+      - blog/2014-05-26-stadt.md
+      - blog/2014-05-21-printrbot-in-action.md
+      - blog/2014-05-15-printrbot.md
+      - blog/2014-04-29-kickoff.md
+      - blog/2014-04-25-urspruenge.md
+      - blog/2014-04-23-esgehtlos.md
+    
+  - Das Labor nutzen:
+    - Infrastruktur im Fab Lab Siegen: 'nutzen/infrastruktur.md'
+    - Sicherheits-Einweisungen: 'nutzen/sicherheits-einweisungen.md'
+    - Kultur, Kontext & Methoden: 'nutzen/maker-culture.md'
+    - Gestaltung in 2D und 3D: 'nutzen/gestaltung.md'
+    - Laser-Cutter: 'nutzen/laser.md'
+    - 3D-Druck: 'nutzen/3d-druck.md'
+    - CNC-Fräsen: 'nutzen/cnc.md'
+    - Analoge Elektronik: 'nutzen/analoge-elektronik.md'
+    - Mikroelektronik und IoT: 'nutzen/mikro-elektronik.md'
+    - Nähen & Wearables: 'nutzen/naehen.md'
+#    - Robotik: 'nutzen/robotik.md'
 
-    - 'Blog': 'index.md'
+  - Ressourcen:
+    - Fotos & Info-Material: 'ressourcen/infos.md'
+#   - Handbuch (FAB101)         
+    - Mehr über Fab Labs: 'ressourcen/mehr-ueber-fablabs.md'
+    - Organisation: 'ressourcen/organisation.md'
+    - Laborordnung: 'ressourcen/laborordnung.md'
+    - Für Mitarbeiter*Innen: 'ressourcen/intern.md'
+    - Dokumentation, Teilen & Website: 'nutzen/dokumentation.md'    
+    - Projekte: 
+      - Fab Access Control: 'ressourcen/projekte/access-control.md' 
+      - Lehrmaterial: 'ressourcen/projekte/lehrmaterial.md'
 
-    - 'Galerie': 'index.md'
-
-
-    - Infrastruktur:
-#      - Overview: 'infrastructure/index.md'
-      - Räume und Orte: 'infrastructure/Raum.md'
-      - Laser Cutter: 'infrastructure/Laser-Cutter.md'
-      - CNC-Fräsen:
-        - X-Carve: 'infrastructure/CNC-Fraese_X-Carve.md'
-        - Portalfräse EAS: 'infrastructure/CNC-Portalfraese_Heavy.md'
-        - Stämpfli: 'infrastructure/Staempfli.md'
-      - 3D-Druck:
-        - 'infrastructure/3D-Druck/Ultimaker.md'
-        - 'infrastructure/3D-Druck/PrintrBot.md'
-        - 'infrastructure/3D-Druck/Form1.md'
-        - 'infrastructure/3D-Druck/LulzBotTAZ5.md'
-        - 'infrastructure/3D-Druck/MarkOne.md'
-        - 'infrastructure/3D-Druck/MarkTwo.md'
-        - 'infrastructure/3D-Druck/Replicator2X.md'
-        - 'infrastructure/3D-Druck/ReplicatorDual.md'
-        - 'infrastructure/3D-Druck/Aya.md'
-      - Hand- und Elektrowerkzeuge: 'infrastructure/Elektrowerkzeug.md'
-      - Stoff und Nähen: 'infrastructure/Laser-Cutter.md'
-      - Elektrowerkstatt: 'infrastructure/Elektronik-Bereich.md'
-      - Lager und Material: 'infrastructure/Lager.md'
-      - Sonstiges: 'infrastructure/Computer.md'
-
-    - Sicherheit und Regeln:
-      - The Rules in a Nutshell: 'learn-share/community-safety.md'
-      - Sicherheitseinweisungen: 'briefings-rules/Grundregeln/index.md'
-      - Laborordnung: 'briefings-rules/Laborordnung.md'
-      # - Unterweisung Laser: 'briefings-rules/Einweisung_Laser/index.md'
-      # - Unterweisung 3D-Drucker: 'briefings-rules/Einweisung_3D-Drucker/index.md'
-      # - Unterweisung E-Werkstatt: 'briefings-rules/Einweisung_E-Werkstatt/index.md'
-      # - Unterweisung Elektrowerkzeug: 'briefings-rules/Einweisung_Elektro-Werkzeuge/index.md'
-      - Raumnutzung & Aufsicht: 'briefings-rules/Laborordnung.md'
-      # - Unterweisung Fräsen: 'briefings-rules/Einweisung_Fraese/index.md'
-
-
-    - 'Lernen im Lab':
-      - 'Offenes Labor / Open Lab': 'workwithus/openlabs.md'
-      - 'Wissen Teilen / Sharing Knowledge': 'learn-share/how-to-docs.md'
-      - Semester Courses:
-        - 'FAB101 lecture': 'learn-share/fab-basics.md'
-        - 'Seminar: Reading Class': 'learn-share/how-to-docs.md'
-        - 'Seminar: Open Lab': 'learn-share/how-to-docs.md'
-        - 'Seminar: LabLab': 'learn-share/how-to-docs.md'
-        - 'Seminar: IoT': 'learn-share/how-to-docs.md'
-        - 'Seminar: 3D printing': 'learn-share/how-to-docs.md'
-        - 'Seminar: Produktentwicklung III': 'learn-share/how-to-docs.md'
-        - 'Seminar: Labor Additive Fertigung': 'learn-share/how-to-docs.md'
-      - 'Open Topics for Students': 'workwithus/qualification.md'
-      - MINT:Lab Siegen: 'learn-share/how-to-docs.md'
-      - VDI Zukunftspiloten Siegen: 'learn-share/how-to-docs.md'
-      - 'Workshops': 'workwithus/openlabs.md'
-  #    - 'Arduino in a Nutshell': 'learn-share/how-to-docs.md'
-      - 'Other learning resources': 'learn-share/how-to-docs.md'
-
-    - Projekte:
-      - Übersicht / Overview: 'projects.md'
-      - FAB101: 'projects.md'
-      - ZEIT.RAUM: 'projects.md'
-      - YALLAH: 'projects.md'
-      - Access Control: 'projects.md'
-      - Hush-Box: 'projects/Hush-Box.md'
-      - Aya: 'projects/Aya.md'
-      - Lab-Status: 'projects/Lab-Status.md'
-      - Gamebly: 'projects/Gamebly.md'
-      - Mobile & Temporary Labs: 'projects.md'
-      - 3D-Druck mit Faserverbund-Werkstoffen: 'projects.md'
-      - Sonstige Projekte und Ideen: 'projects.md'
-
- #     - FAB101
- #     - ZEIT.RAUM Siegen
- #     - Siegen Unter Tage
- #     - Open Labs & Education (Open Lab, Student Lab, Mobile Labs, HCI Lab, 3D Café, Zukunftspiloten, Holospace, ...)
- #     - YALLAH
- #     - Lab Projects
- #     - (Student) Research
-
-
-    - 'Events': 'events.md'
-#     - 'Conferences': 'events/conferences.md'
-#      - 'Open Lab Days': 'workwithus/openlabs.md'
-#     - 'Workshops & Talks':
-#     - (Mobile) Makerspaces
-
-
-
-    - 'Kontakt':
-      - 'Adresse': 'workwithus/events.md'
-      - 'Öffnungszeiten': 'workwithus/openlabs.md'
-      - 'Soziale und andere Medien': 'workwithus/events.md'
-      - 'Ansprechpersonen': 'about/team.md'
-
-
-
-markdown_extensions:
-  - admonition
-  - codehilite
-  - toc(permalink=true)
-  - footnotes
+  - Kontakt:
+    - Kontakt: 'kontakt/kontakt.md'
+    - Öffnungszeiten: 'kontakt/oeffnungszeiten.md'
+    - Kalender: 'kontakt/kalender.md'
+    - Unterstützung: 'kontakt/unterstuetzung.md'
 
 theme:
-  name: material
-  custom_dir: 'theme/material'
+  name: 'material'
+  custom_dir: 'theme/'
+  feature:
+    tabs: true
+  palette:
+    primary: 'grey'
+    accent: 'deep-orange'
+  logo: 'images/logo.png'  
+  font: false  
+  
+markdown_extensions:
+  - admonition
+  - meta
+  - codehilite
+  - toc:
+      permalink: true
+  - footnotes
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.details
+  - pymdownx.mark
 
-extra_css:
-    - css/footer.css
 
 extra:
-  logo: 'images/logo.png'
   palette:
     primary: 'grey'
     accent: 'amber'
-  font:
-    text: 'Open Sans'
-    code: 'Inconsolata'
-#  social:
-#    - type: 'twitter'
-#      link: 'https://twitter.com/fablabsiegen'
-#    - type: 'facebook'
-#      link: 'http://facebook.com/fablabsiegen'
+  social:
+    - type: 'twitter'
+      link: 'https://twitter.com/fablabsiegen'
+    - type: 'facebook'
+      link: 'http://facebook.com/fablabsiegen'
+    - type: 'image'
+      link: 'https://goo.gl/photos/8JjoX3biSTS7AKYw9'
+
+extra_css:
+  - css/footer.css
+
+# extra_javascript:
+#    - https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js
+
+plugins:
+  - bibtex:
+      bib_file: "refs.bib"
+      cite_style: "pandoc"
+#  - markdownmermaid    
+#  - pdf-export

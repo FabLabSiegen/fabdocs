@@ -1,5 +1,0 @@
-# Lab-Status
-
-## Kontakt
-Fabian
-

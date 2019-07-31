@@ -1,3 +1,0 @@
-# The Lab infrastructure
-
-Das Fab Lab Siegen ist mit verschiedensten Geräten wie mittlerweile zehn 3D-Druckern, Lasercuttern oder CNC-Fräsen, aber auch Hand-, Elektro- und anderen Werkzeugen, einer Nähmaschine, elektrotechnischer Ausrüstung sowie unterschiedlichen Materialien, Komponenten und Bauteilen ausgestattet. Für alle, die es genauer wissen möchten, gibt es Blog-Posts über unsere Ausstattung und unseren Raum. Laufend aktualisiert wird außerdem unser öffentliches Foto-Album.
