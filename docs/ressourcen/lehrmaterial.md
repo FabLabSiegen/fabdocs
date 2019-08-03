@@ -1,3 +1,5 @@
+![](images/lehrformate.jpg)
+
 ## Seminar "3D-Druck" (2015)
 
 [Download-Link Vorlesungsmaterial gesamt als PDF](/images/2015-3d-druck-seminar-slides.pdf)

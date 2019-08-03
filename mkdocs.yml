@@ -1,11 +1,11 @@
 site_name: 'Fab Lab Siegen'
 repo_url: 'https://github.com/FabLabSiegen/fabdocs'
 repo_name: 'Quellcode'
-# edit_uri: edit/master/docs/ (change to dev branch?)
+# edit_uri: edit/master/docs/
 site_author: 'Fab Lab Siegen'
 
 nav:
-  - Über das Labor:
+  - Über das Lab:
     - Fab Lab Siegen: 'index.md'
     - Lehre & Bildung: 'lehre.md'
     - Forschung: 'forschung.md'
@@ -35,30 +35,34 @@ nav:
       - blog/2014-04-25-urspruenge.md
       - blog/2014-04-23-esgehtlos.md
     
-  - Das Labor nutzen:
+  - Das Lab nutzen:
     - Infrastruktur im Fab Lab Siegen: 'nutzen/infrastruktur.md'
     - Sicherheits-Einweisungen: 'nutzen/sicherheits-einweisungen.md'
     - Kultur, Kontext & Methoden: 'nutzen/maker-culture.md'
+    - Dokumentation & Teilen: 'nutzen/dokumentation.md'        
     - Gestaltung in 2D und 3D: 'nutzen/gestaltung.md'
     - Laser-Cutter: 'nutzen/laser.md'
+    - Folienschneider / Plotter: 'nutzen/cutter.md'    
     - 3D-Druck: 'nutzen/3d-druck.md'
     - CNC-Fräsen: 'nutzen/cnc.md'
     - Analoge Elektronik: 'nutzen/analoge-elektronik.md'
     - Mikroelektronik und IoT: 'nutzen/mikro-elektronik.md'
     - Nähen & Wearables: 'nutzen/naehen.md'
-#    - Robotik: 'nutzen/robotik.md'
+    - (Frei-)Raum nutzen: 'nutzen/raum.md'
 
   - Ressourcen:
     - Fotos & Info-Material: 'ressourcen/infos.md'
 #   - Handbuch (FAB101)         
     - Mehr über Fab Labs: 'ressourcen/mehr-ueber-fablabs.md'
-    - Organisation: 'ressourcen/organisation.md'
+    - Organisation: 
+      - Auftrag & Entwicklung: 'ressourcen/organisation.md'
+      - Team & Partner: 'ressourcen/team.md'
+      - Für Mitarbeiter*Innen: 'ressourcen/intern.md'
     - Laborordnung: 'ressourcen/laborordnung.md'
-    - Für Mitarbeiter*Innen: 'ressourcen/intern.md'
-    - Dokumentation, Teilen & Website: 'nutzen/dokumentation.md'    
-    - Projekte: 
-      - Fab Access Control: 'ressourcen/projekte/access-control.md' 
-      - Lehrmaterial: 'ressourcen/projekte/lehrmaterial.md'
+    - Lehrmaterial: 'ressourcen/lehrmaterial.md' 
+    - Projekt-Beispiele: 
+      - Fab Access Control: 'ressourcen/projekte/access-control.md'    
+    
 
   - Kontakt:
     - Kontakt: 'kontakt/kontakt.md'
@@ -108,7 +112,7 @@ extra_css:
 # extra_javascript:
 #    - https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js
 
-# plugins:
+plugins:
 #  - bibtex:
 #      bib_file: "refs.bib"
 #      cite_style: "pandoc"

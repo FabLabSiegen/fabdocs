@@ -7,7 +7,7 @@ Ein offener Ort wie unser Fab Lab könnte nicht ohne Partner existieren - gerade
 
 Als Teil der Universität haben wir selbstverständlich die Möglichkeit, Spendenquittungen auszustellen und sprechen gerne individuell über eventuelle Sponsoring-Leistungen - oder ganz einfach über direkten Austausch auf Arbeitsebene. Bitte [sprechen Sie uns an](../kontakt/kontakt).
 
-**Wir danken unter anderem:**
+## Wir danken unter anderem 
 
 * Sparkasse Siegen
 * Wiha für zahlreiches Werkzeug

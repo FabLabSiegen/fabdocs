@@ -1,6 +1,4 @@
-# Laborordnung
-
-_Stand 2018_
+![](images/safety.jpg)
 
 Die vorliegende Ordnung bezieht sich auf das [Fab Lab Siegen](http://www.fablab-siegen.de), dt. "Fabrikationslabor", im Folgenden "Labor" der Universität Siegen. Das Labor ist eine offene, neuartige Werkstatt zum Zwecke der Forschung und Lehre zu verteilten, digitalen Fabrikationsinfrastrukturen.
 
@@ -285,3 +283,4 @@ Ausgelaufene Flüssigkeiten/Öle sind mit Sand \(Standort: Lager\) abzustreuen u
 
 Unbeaufsichtigt dürfen Versuche nur dann laufen, wenn sichergestellt ist, dass - Andere Personen nicht in den Versuch eingreifen können bzw. durch diesen gefährdet werden, - Auch bei Ausfall von Strom, Kühlwasser etc. keine gefährlichen Zustände auftreten können, - Keine erhöhte Brandgefahr \(z.B. durch Überhitzung\) vorhanden ist.
 
+Stand 2018 
