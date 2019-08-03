@@ -108,9 +108,9 @@ extra_css:
 # extra_javascript:
 #    - https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js
 
-plugins:
-  - bibtex:
-      bib_file: "refs.bib"
-      cite_style: "pandoc"
+# plugins:
+#  - bibtex:
+#      bib_file: "refs.bib"
+#      cite_style: "pandoc"
 #  - markdownmermaid    
 #  - pdf-export
