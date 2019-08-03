@@ -1,7 +1,7 @@
 site_name: 'Fab Lab Siegen'
 repo_url: 'https://github.com/FabLabSiegen/fabdocs'
 repo_name: 'Quellcode'
-# edit_uri: edit/master/docs/
+# edit_uri: edit/master/docs/ (change to dev branch?)
 site_author: 'Fab Lab Siegen'
 
 nav:
