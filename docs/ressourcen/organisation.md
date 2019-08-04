@@ -16,3 +16,6 @@ Derzeit ist das Fab Lab Siegen organisatorisch ein "Projekt eines Zentralinstitu
 
 ![](images/nutzerzahlen2.jpg)
 *EinzelnutzerInnen inkl. Gäste in einer durchschnittlichen Woche*
+
+![](images/drittmittel.jpg)
+*Schematischer, ungefährer Vergleich eingeworbener Fördermittel und Investments ins Fab Lab Siegen 2014-2019*

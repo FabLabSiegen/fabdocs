@@ -15,6 +15,3 @@ Als "Fenster in die Uni" und als "Labor der Digitalisierung" fügt sich das Fab 
 ## Projektförderungen für die Region
 
 Seit Projektbeginn sind deutlich mehr Drittmittel aus Bundes-, Landes- und anderen Förderrichtlinien in Zusammenhang mit dem Fab Lab für die Region eingeworben worden als Kosten verursacht wurden. Über Drittmittelprojekte werden Forschungsvorhaben umgesetzt sowie regionale Schwerpunktthemen fokussiert - und neue Arbeitsstellen in der Region für junge Forscher*Innen und wissenschaftsunterstützendes Personal in der Region geschaffen. 
-
-![](images/drittmittel.jpg)
-*Schematische Übersicht zu eingeworbenen Fördermitteln und Investments ins Fab Lab Siegen 2014-2019*
