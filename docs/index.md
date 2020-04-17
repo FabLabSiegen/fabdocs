@@ -26,6 +26,6 @@ Wir können die Räume bis zur Umsetzung [Projektes "Herrengarten"](https://www.
 
 ## Die Ausstattung
 
-Wir haben verschiedenste Geräte, Maschinen und anderes Zubehör, das nach entsprechender Sicherheitsunterweisung genutzt werden kann. Unter anderem gibt's bei uns verschiedenste 3D-Drucker, Nähmaschinen, Hand- und Elektrowerkzeuge, einen Laser-Cutter, Fräsen und vieles mehr. Unter [Infrastruktur](/nutzen/infrastruktur.md) findet ihr eine genauere Übersicht. 
+Wir haben verschiedenste Geräte, Maschinen und anderes Zubehör, das nach entsprechender Sicherheitsunterweisung genutzt werden kann. Unter anderem gibt's bei uns verschiedenste 3D-Drucker, Nähmaschinen, Hand- und Elektrowerkzeuge, einen Laser-Cutter, Fräsen und vieles mehr. Unter [Infrastruktur](/nutzen/infrastruktur) findet ihr eine genauere Übersicht. 
 
 ![](images/infrastruktur.jpg)
